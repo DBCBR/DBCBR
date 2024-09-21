@@ -2,7 +2,8 @@
 - 👀 Estou interessado em Inteligência Artificial.
 - 🌱 Atualmente estou aprendendo Python
 - 💞️ Procuro colaborar em qualquer projeto que me ajude a evoluir e a aprender mais.
-- 📫 Formas de contato: Hotmail - dbcbr@hotmail.com / G-mail - davidbarcellos@gmail.com / LinkedIn - www.linkedin.com/in/david-barcellos-cardoso-7380b42ba / Whats'App - (21)98605-8337
+- 📫 Formas de contato: Hotmail - dbcbr@hotmail.com / G-mail - davidbarcellos@gmail.com / LinkedIn - www.linkedin.com/in/david-barcellos-cardoso-7380b42ba / Whats'App -
+https://wa.me/5521986058337
 
 
 <!---
