@@ -6,7 +6,9 @@
 
 ----------------
 
-![David Barcellos Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=DBCBR&show_icons=true&theme=radical)
+![David Barcellos Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=DBCBR&show_icons=true&theme=dracula)
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCBR&layout=compact&langs_count=7&theme=dracula"/>
 
 <!---
 DBCBR/DBCBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
