@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou David Barcellos cardoso @DBCBR
-- 👀 Estou interessado em Inteligência Artificial.
-- 🌱 Atualmente estou aprendendo Python, C#, Ruby on Rails, Java
+- 👀 Estou interessado em Inteligência Artificial e RPA.
+- 🌱 Atualmente estou aprendendo Python, Data Science, ML e Automações.
 - 💞️ Procuro colaborar em qualquer projeto que me ajude a evoluir e a aprender mais.
 - 📫 Formas de contato: <BR>Hotmail - (dbcbr@hotmail.com)  <BR>G-mail - (davidbarcellos@gmail.com)  <BR>LinkedIn - (www.linkedin.com/in/david-barcellos-cardoso) <BR>Whats'App - (https://wa.me/5521986058337)
 
