@@ -1,8 +1,11 @@
 # Olá, eu sou o David Barcellos Cardoso! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCBR&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DBCBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <!-- Estatísticas Gerais -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DBCBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DBCBR&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" height="150" />
 </div>
 
 ---
