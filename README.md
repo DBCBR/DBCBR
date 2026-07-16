@@ -1,11 +1,11 @@
 # Olá, eu sou o David Barcellos Cardoso! 👋
 
 <div align="center">
-  <!-- Estatísticas Gerais (Hospedado no servidor alternativo do GitHub Stats) -->
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=DBCBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <!-- Estatísticas de Sequência de Commits (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DBCBR&theme=dracula" alt="GitHub Streak" height="150" />
   
-  <!-- Gráfico de Linguagens Dinâmicas por outra CDN -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCBR&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" alt="Linguagens Mais Usadas" height="150" />
+  <!-- Gráfico de Atividade Geral -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DBCBR&theme=dracula" alt="Resumo do Perfil" height="150" />
 </div>
 
 ### 🧠 Sobre Mim
